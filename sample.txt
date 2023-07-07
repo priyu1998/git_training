@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Welcome To Git 2023 Betsol Training.
+=======
+Welcome To Git 2023 Betsol Training by nagabanu.
+>>>>>>> b5a424569463966c7f0c6e8a703f102e367eb449
